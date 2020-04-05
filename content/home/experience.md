@@ -39,7 +39,7 @@ the National Cancer Institute (NCI).
   """
 
 [[experience]]
-  title = "Biostatistician II"
+  title = "Biostatistician I"
   company = "Children’s Hospital Los Angeles, Anesthesia Critical Care Medicine"
   company_url = ""
   location = "California"
